@@ -1,5 +1,4 @@
 #Jump Game
-
 def Jump_Game(A):
   j=0
   if(A[0]==0):
